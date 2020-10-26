@@ -2,7 +2,7 @@
 
 I'm a Computer Science (CS) undergraduate who is passionate about building applications that both look good and do good. Some technologies I enjoy working with include ReactJS and Flutter. I recently had the chance to lead a team to build the [national COVID-19 forward contact tracing application](https://www.comp.nus.edu.sg/news/3480-2020-covid-contact-tracing/) for Singapore. My belief in Tech for Good has led me to co-found an [edutech start-up](https://www.joni.ai) and build [applications for non-profit organisations](https://www.comp.nus.edu.sg/~vwo/projects/2020-lbsa.html).
 
-## Favourite Languages & Technologies
+## Languages & Technologies
 
 <p align="center">
   <img src="svgs/python.svg" height="30" width="auto"/>
