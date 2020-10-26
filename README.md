@@ -5,20 +5,20 @@ I'm a Computer Science (CS) undergraduate who is passionate about building appli
 ## Languages & Technologies
 
 <p align="center">
-  <img src="svgs/python.svg" height="35" width="auto"/>&nbsp;
-  <img src="svgs/c.svg" height="35" width="auto"/>&nbsp;
-  <img src="svgs/java.svg" height="35" width="auto"/>&nbsp;
-  <img src="svgs/flutter.svg" height="35" width="auto"/>&nbsp;
-  <img src="svgs/typescript.svg" height="35" width="auto"/>&nbsp;
-  <img src="svgs/react.svg" height="35" width="auto"/>&nbsp;
-  <img src="svgs/redux.svg" height="35" width="auto"/>&nbsp;
-  <img src="svgs/nodejs.svg" height="35" width="auto"/>&nbsp;
-  <img src="svgs/rails.svg" height="35" width="auto"/>&nbsp;
-  <img src="svgs/sass.svg" height="35" width="auto"/>&nbsp;
-  <img src="svgs/docker.svg" height="35" width="auto"/> &nbsp;
-  <img src="svgs/git.svg" height="35" width="auto"/>&nbsp;
-  <img src="svgs/photoshop.svg" height="35" width="auto"/>&nbsp;
-  <img src="svgs/xd.svg" height="35" width="auto"/>
+  <img src="svgs/python.svg" height="35" width="auto" href="https://www.python.org/" />&nbsp;
+  <img src="svgs/c.svg" height="35" width="auto" />&nbsp;
+  <img src="svgs/java.svg" height="35" width="auto" />&nbsp;
+  <img src="svgs/flutter.svg" height="35" width="auto" />&nbsp;
+  <img src="svgs/typescript.svg" height="35" width="auto" />&nbsp;
+  <img src="svgs/react.svg" height="35" width="auto" />&nbsp;
+  <img src="svgs/redux.svg" height="35" width="auto" />&nbsp;
+  <img src="svgs/nodejs.svg" height="35" width="auto" />&nbsp;
+  <img src="svgs/rails.svg" height="35" width="auto" />&nbsp;
+  <img src="svgs/sass.svg" height="35" width="auto" />&nbsp;
+  <img src="svgs/docker.svg" height="35" width="auto" /> &nbsp;
+  <img src="svgs/git.svg" height="35" width="auto" />&nbsp;
+  <img src="svgs/photoshop.svg" height="35" width="auto" />&nbsp;
+  <img src="svgs/xd.svg" height="35" width="auto" />
 </p>
 
 ## Learn more about me at
