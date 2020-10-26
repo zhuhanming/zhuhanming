@@ -4,8 +4,9 @@ I'm a Computer Science undergraduate who is passionate about building applicatio
 
 ## Languages & Technologies
 
+ <!-- markdownlint-disable MD033 -->
 <p align="center">
-  <img src="svgs/python.svg" height="35" width="auto" href="https://www.python.org/" />&nbsp;
+  <a href="https://www.python.org/" target="_blank" noopener noreferrer><img src="svgs/python.svg" height="35" width="auto" /></a>&nbsp;
   <img src="svgs/c.svg" height="35" width="auto" />&nbsp;
   <img src="svgs/java.svg" height="35" width="auto" />&nbsp;
   <img src="svgs/flutter.svg" height="35" width="auto" />&nbsp;
@@ -20,6 +21,7 @@ I'm a Computer Science undergraduate who is passionate about building applicatio
   <img src="svgs/photoshop.svg" height="35" width="auto" />&nbsp;
   <img src="svgs/xd.svg" height="35" width="auto" />
 </p>
+<!-- markdownlint-enable MD033 -->
 
 ## Learn more about me at
 
