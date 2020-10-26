@@ -5,62 +5,35 @@ I'm a Computer Science undergraduate who is passionate about building applicatio
 ## Languages & Technologies
 
  <!-- markdownlint-disable MD033 -->
+ <!-- The lack of line breaks within anchor tags is due to a weird underline appearing when line breaks are present. -->
 <p align="center">
-  <a href="https://www.python.org/" title="Python">
-    <img src="svgs/python.svg" height="35" width="auto" />
-  </a>
+  <a href="https://www.python.org/" title="Python"><img src="svgs/python.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C">
-    <img src="svgs/c.svg" height="35" width="auto" />
-  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="svgs/c.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="https://www.java.com/en/" title="Java">
-    <img src="svgs/java.svg" height="35" width="auto" />
-  </a>
+  <a href="https://www.java.com/en/" title="Java"><img src="svgs/java.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="https://flutter.dev" title="Flutter">
-    <img src="svgs/flutter.svg" height="35" width="auto" />
-  </a>
+  <a href="https://flutter.dev" title="Flutter"><img src="svgs/flutter.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="https://www.typescriptlang.org" title="TypeScript">
-    <img src="svgs/typescript.svg" height="35" width="auto" />
-  </a>
+  <a href="https://www.typescriptlang.org" title="TypeScript"><img src="svgs/typescript.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="https://reactjs.org" title="React">
-    <img src="svgs/react.svg" height="35" width="auto" />
-  </a>
+  <a href="https://reactjs.org" title="React"><img src="svgs/react.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="https://redux.js.org" title="Redux">
-    <img src="svgs/redux.svg" height="35" width="auto" />
-  </a>
+  <a href="https://redux.js.org" title="Redux"><img src="svgs/redux.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="https://nodejs.org/en/" title="Node.js">
-    <img src="svgs/nodejs.svg" height="35" width="auto" />
-  </a>
+  <a href="https://nodejs.org/en/" title="Node.js"><img src="svgs/nodejs.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="https://rubyonrails.org" title="Ruby on Rails">
-    <img src="svgs/rails.svg" height="35" width="auto" />
-  </a>
+  <a href="https://rubyonrails.org" title="Ruby on Rails"><img src="svgs/rails.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="https://sass-lang.com" title="Sass">
-    <img src="svgs/sass.svg" height="35" width="auto" />
-  </a>
+  <a href="https://sass-lang.com" title="Sass"><img src="svgs/sass.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="https://www.docker.com" title="Docker">
-    <img src="svgs/docker.svg" height="35" width="auto" />
-  </a>
+  <a href="https://www.docker.com" title="Docker"><img src="svgs/docker.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="https://git-scm.com" title="Git">
-    <img src="svgs/git.svg" height="35" width="auto" />
-  </a>
+  <a href="https://git-scm.com" title="Git"><img src="svgs/git.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop">
-    <img src="svgs/photoshop.svg" height="35" width="auto" />
-  </a>
+  <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="svgs/photoshop.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="https://www.adobe.com/products/xd.html" title="Adobe XD">
-    <img src="svgs/xd.svg" height="35" width="auto" />
-  </a>
+  <a href="https://www.adobe.com/products/xd.html" title="Adobe XD"><img src="svgs/xd.svg" height="35" width="auto" /></a>
 </p>
 <!-- markdownlint-enable MD033 -->
 
