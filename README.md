@@ -5,21 +5,20 @@ I'm a Computer Science (CS) undergraduate who is passionate about building appli
 ## Languages & Technologies
 
 <p align="center">
-  <img src="svgs/python.svg" height="30" width="auto"/>
-  <img src="svgs/c.svg" height="30" width="auto"/>
-  <img src="svgs/java.svg" height="30" width="auto"/>
-  <img src="svgs/flutter.svg" height="30" width="auto"/>
-  <img src="svgs/typescript.svg" height="30" width="auto"/>
-  <img src="svgs/react.svg" height="30" width="auto"/>
-  <img src="svgs/redux.svg" height="30" width="auto"/>
-  <img src="svgs/nodejs.svg" height="30" width="auto"/>
-  <img src="svgs/rails.svg" height="30" width="auto"/>
-  <img src="svgs/sass.svg" height="30" width="auto"/>
-  <img src="svgs/docker.svg" height="30" width="auto"/>
-  <img src="svgs/git.svg" height="30" width="auto"/>
-  <br />
-  <img src="svgs/photoshop.svg" height="30" width="auto"/>
-  <img src="svgs/xd.svg" height="30" width="auto"/>
+  <img src="svgs/python.svg" height="40" width="auto"/>&nbsp;
+  <img src="svgs/c.svg" height="40" width="auto"/>&nbsp;
+  <img src="svgs/java.svg" height="40" width="auto"/>&nbsp;
+  <img src="svgs/flutter.svg" height="40" width="auto"/>&nbsp;
+  <img src="svgs/typescript.svg" height="40" width="auto"/>&nbsp;
+  <img src="svgs/react.svg" height="40" width="auto"/>&nbsp;
+  <img src="svgs/redux.svg" height="40" width="auto"/>&nbsp;
+  <img src="svgs/nodejs.svg" height="40" width="auto"/>&nbsp;
+  <img src="svgs/rails.svg" height="40" width="auto"/>&nbsp;
+  <img src="svgs/sass.svg" height="40" width="auto"/>&nbsp;
+  <img src="svgs/docker.svg" height="40" width="auto"/> &nbsp;
+  <img src="svgs/git.svg" height="40" width="auto"/>&nbsp;
+  <img src="svgs/photoshop.svg" height="40" width="auto"/>&nbsp;
+  <img src="svgs/xd.svg" height="40" width="auto"/>
 </p>
 
 ## Learn more about me at
