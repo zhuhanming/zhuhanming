@@ -40,7 +40,7 @@ I'm a Computer Science undergraduate who is passionate about building applicatio
 ## Learn more about me at
 
 - [hanmingdev](https://hanmingdev.com), my personal site! 😄
-- [LinkedIn](https://www.linkedin.com/in/hanming-zhu/), and to connect with me! 💼
+- [LinkedIn](https://www.linkedin.com/in/hanming-zhu/), and connect with me! 💼
 
 <!--
 **zhuhanming/zhuhanming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
