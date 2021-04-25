@@ -23,6 +23,8 @@ I'm a Computer Science undergraduate who is passionate about building applicatio
   &nbsp;
   <a href="https://nodejs.org/en/" title="Node.js"><img src="svgs/nodejs.svg" height="35" width="auto" /></a>
   &nbsp;
+  <a href="https://developer.apple.com/swift/" title="Swift"><img src="svgs/swift.svg" height="35" width="auto" /></a>
+  &nbsp;
   <a href="https://rubyonrails.org" title="Ruby on Rails"><img src="svgs/rails.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://sass-lang.com" title="Sass"><img src="svgs/sass.svg" height="35" width="auto" /></a>
