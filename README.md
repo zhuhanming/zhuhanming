@@ -1,6 +1,6 @@
 # Hi, I'm Hanming 👋🏼👨🏻‍💻
 
-I'm a Computer Science undergraduate who is passionate about building applications that both look good and do good. Some technologies I enjoy working with include ReactJS, Flutter and Adobe XD (Experience Design). I recently had the chance to lead a team to build [Singapore's COVID-19 contact tracing application](https://www.straitstimes.com/tech/tech-news/nus-team-recognised-for-creating-web-app-to-aid-contact-tracers). My belief in Tech for Good has also led me to co-found an [edutech start-up](https://www.joni.ai) and build [applications for non-profit organisations](https://www.comp.nus.edu.sg/~vwo/projects/2020-lbsa.html).
+I'm a Computer Science undergraduate who is passionate about building applications that both look good and do good. Some technologies I enjoy working with include ReactJS, Flutter, Swift and Adobe XD (Experience Design). I recently had the chance to lead a team to build [Singapore's COVID-19 contact tracing application](https://www.straitstimes.com/tech/tech-news/nus-team-recognised-for-creating-web-app-to-aid-contact-tracers). My belief in Tech for Good has also led me to co-found an [edutech start-up](https://www.joni.ai) and build [applications for non-profit organisations](https://www.comp.nus.edu.sg/~vwo/projects/2020-lbsa.html).
 
 ## Languages & Technologies
 
