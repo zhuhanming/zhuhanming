@@ -42,6 +42,7 @@ I'm a Computer Science undergraduate who is passionate about building applicatio
 ## Learn more about me at
 
 - [hanming.dev](https://hanming.dev), my personal site! 😄
+- [blog.hanming.dev](https://blog.hanming.dev), to see some of my ramblings! ✍️
 - [LinkedIn](https://www.linkedin.com/in/hanming-zhu/), and connect with me! 💼
 
 <!--
