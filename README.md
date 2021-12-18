@@ -27,11 +27,11 @@ I'm a Computer Science undergraduate who is passionate about building applicatio
   &nbsp;
   <a href="https://rubyonrails.org" title="Ruby on Rails"><img src="svgs/rails.svg" height="35" width="auto" /></a>
   &nbsp;
+  <a href="https://hacklang.org/" title="Hack"><img src="svgs/hack.svg" height="35" width="auto" /></a>
+  &nbsp;
   <a href="https://sass-lang.com" title="Sass"><img src="svgs/sass.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://www.docker.com" title="Docker"><img src="svgs/docker.svg" height="35" width="auto" /></a>
-  &nbsp;
-  <a href="https://git-scm.com" title="Git"><img src="svgs/git.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="svgs/photoshop.svg" height="35" width="auto" /></a>
   &nbsp;
