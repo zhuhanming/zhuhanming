@@ -15,6 +15,8 @@ I had the chance to lead a team to build [Singapore's COVID-19 contact tracing a
   &nbsp;
   <a href="https://www.java.com/en/" title="Java"><img src="svgs/java.svg" height="35" width="auto" /></a>
   &nbsp;
+  <a href="https://kotlinlang.org/" title="Kotlin"><img src="svgs/kotlin.svg" height="35" width="auto" /></a>
+  &nbsp;
   <a href="https://flutter.dev" title="Flutter"><img src="svgs/flutter.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://www.typescriptlang.org" title="TypeScript"><img src="svgs/typescript.svg" height="35" width="auto" /></a>
