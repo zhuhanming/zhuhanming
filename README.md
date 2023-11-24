@@ -1,6 +1,8 @@
 # Hi, I'm Hanming 👋🏼👨🏻‍💻
 
-I'm a recent Computer Science graduate who is passionate about building applications that both look good and do good. Some technologies I enjoy working with include ReactJS, Flutter, Swift and Adobe XD (Experience Design). I had the chance to lead a team to build [Singapore's COVID-19 contact tracing application](https://www.straitstimes.com/tech/tech-news/nus-team-recognised-for-creating-web-app-to-aid-contact-tracers) back in 2020. My belief in Tech for Good has also led me to co-found an [edutech start-up](https://www.joni.ai) and build [applications for non-profit organisations](https://www.comp.nus.edu.sg/~vwo/projects/2020-lbsa.html).
+I'm a Software Engineer who is passionate about building applications that both look good and do good, currently working to connect people around the world through WhatsApp Calling. Some technologies I enjoy working with include ReactJS, Android, Flutter, Swift and Adobe XD (Experience Design).
+
+I had the chance to lead a team to build [Singapore's COVID-19 contact tracing application](https://www.straitstimes.com/tech/tech-news/nus-team-recognised-for-creating-web-app-to-aid-contact-tracers) back in 2020. My belief in Tech for Good has also led me to co-found an [edutech start-up](https://www.joni.ai) and build [applications for non-profit organisations](https://www.comp.nus.edu.sg/~vwo/projects/2020-lbsa.html).
 
 ## Languages & Technologies
 
@@ -42,8 +44,8 @@ I'm a recent Computer Science graduate who is passionate about building applicat
 ## Learn more about me at
 
 - [hanming.dev](https://hanming.dev), my personal site! 😄
-- [blog.hanming.dev](https://blog.hanming.dev), to see some of my ramblings! ✍️
 - [LinkedIn](https://www.linkedin.com/in/hanming-zhu/), and connect with me! 💼
+<!-- - [blog.hanming.dev](https://blog.hanming.dev), to see some of my ramblings! ✍️ -->
 
 <!--
 **zhuhanming/zhuhanming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
