@@ -45,7 +45,7 @@ I had the chance to lead a team to build [Singapore's COVID-19 contact tracing a
 
 ## Learn more about me at
 
-- [hanming.dev](https://hanming.dev), my personal site! 😄
+- [hanm.ing](https://hanm.ing), my personal site! 😄
 - [LinkedIn](https://www.linkedin.com/in/hanming-zhu/), and connect with me! 💼
 <!-- - [blog.hanming.dev](https://blog.hanming.dev), to see some of my ramblings! ✍️ -->
 
